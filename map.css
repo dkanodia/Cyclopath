@@ -121,7 +121,7 @@ body {
 }
 
 .legend > div:nth-child(2) {
-  background-color: #CC8899; /* Gray - Balanced */
+  background-color: #CC8899; 
 }
 
 .legend > div:nth-child(3) {
